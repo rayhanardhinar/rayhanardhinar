@@ -4,10 +4,11 @@
 - 🌱 Currently learning on [Dicoding.com](https://www.dicoding.com/)
 - 👯 Looking forward to collaborate on Baparekraf Digital Talent 2024 Web Development Bootcamp
 - 📫 How to reach me: [My Instagram](https://www.instagram.com/rayyhnaard/)
-### Sertification
+  
+### Certification
 * [Dicoding Learn Basic Git with Github](https://www.dicoding.com/certificates/QLZ94G0N9P5D), Id : QLZ94G0N9P5D
 * [Programming Logic 101](https://www.dicoding.com/certificates/0LZ02M00QX65), Id : 0LZ02M00QX65
-
+* [Basic Programming Becoming Softtware Developer](https://www.dicoding.com/certificates/JMZVDJMYNZN9), Id : JMZVDJMYNZN9
 
 ### Github Statistic
 <p align="left">
