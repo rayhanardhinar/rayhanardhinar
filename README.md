@@ -11,6 +11,7 @@
 * [Basic Programming Becoming Software Developer](https://www.dicoding.com/certificates/JMZVDJMYNZN9), Id : JMZVDJMYNZN9
 * [Basic Web Programming](https://www.dicoding.com/certificates/NVP77V85VPR0), Id : NVP77V85VPR0
 * [Basic Javascript Programming](https://www.dicoding.com/certificates/NVP77LEKGPR0), Id : NVP77LEKGPR0
+* [Basic Front End Web Programming](https://www.dicoding.com/certificates/KEXL8RG3RZG2), Id : KEXL8RG3RZG2
   
 ### Github Statistic
 <p align="left">
