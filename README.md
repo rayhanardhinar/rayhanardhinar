@@ -13,6 +13,7 @@
 * [Dicoding Basic Javascript Programming](https://www.dicoding.com/certificates/NVP77LEKGPR0), Id : NVP77LEKGPR0
 * [Dicoding Basic Front End Web Programming](https://www.dicoding.com/certificates/KEXL8RG3RZG2), Id : KEXL8RG3RZG2
 * [Dicoding Fundamental Front End Web Development](https://www.dicoding.com/certificates/MEPJY8MQQP3V), Id : MEPJY8MQQP3V
+* [Dicoding Pursuing a Career as a Software Developer](https://www.dicoding.com/certificates/N9ZOMD7LDPG5), Id : N9ZOMD7LDPG5
   
 ### Github Statistic
 <p align="left">
