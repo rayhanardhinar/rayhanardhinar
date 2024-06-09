@@ -15,6 +15,7 @@
 * [Dicoding Fundamental Front End Web Development](https://www.dicoding.com/certificates/MEPJY8MQQP3V), Id : MEPJY8MQQP3V
 * [Dicoding Pursuing a Career as a Software Developer](https://www.dicoding.com/certificates/N9ZOMD7LDPG5), Id : N9ZOMD7LDPG5
 * [Dicoding Becoming Frontend Web Developer Expert](https://www.dicoding.com/certificates/RVZKRRQNNPD5), Id : RVZKRRQNNPD5
+* [Dicoding Beginner Backend Developer](https://www.dicoding.com/certificates/MRZMENY7KPYQ), Id : MRZMENY7KPYQ
   
 ### Github Statistic
 <p align="left">
