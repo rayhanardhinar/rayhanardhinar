@@ -1,9 +1,8 @@
 ### Halloo 👋
 - 😄 You can call me Rayhan!
-- 🎓 part of [Malang State University](https://um.ac.id/)
-- 🌱 Currently learning on [Dicoding.com](https://www.dicoding.com/)
-- 👯 Recently active on BAPAREKRAF Digital Talent 2024 Web Development Bootcamp Program (KEMENPAREKRAF)
-- 📫 How to reach me: [My Instagram](https://www.instagram.com/rayyhnaard/)
+- 🎓 graduate from [Malang State University](https://um.ac.id/)
+- 🌱 BAPAREKRAF Digital Talent 2024 Web Development Bootcamp Cohort from [Dicoding.com](https://www.dicoding.com/)
+- 📫 How to reach me: [My Instagram](https://www.instagram.com/rayhanardhinarr/)
   
 ### Certification
 * [Dicoding Learn Basic Git with Github](https://www.dicoding.com/certificates/QLZ94G0N9P5D), Id : QLZ94G0N9P5D
