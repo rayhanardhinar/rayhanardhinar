@@ -15,9 +15,3 @@
 * [Dicoding Pursuing a Career as a Software Developer](https://www.dicoding.com/certificates/N9ZOMD7LDPG5), Id : N9ZOMD7LDPG5
 * [Dicoding Becoming Frontend Web Developer Expert](https://www.dicoding.com/certificates/RVZKRRQNNPD5), Id : RVZKRRQNNPD5
 * [Dicoding Beginner Backend Developer](https://www.dicoding.com/certificates/MRZMENY7KPYQ), Id : MRZMENY7KPYQ
-  
-### Github Statistic
-<p align="left">
-<a href="https://github.com/rayhanardhinar">
-  <img height="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayhanardhinar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
