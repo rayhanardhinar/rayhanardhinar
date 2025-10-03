@@ -16,4 +16,4 @@
 * [Dicoding Becoming Frontend Web Developer Expert](https://www.dicoding.com/certificates/RVZKRRQNNPD5), Id : RVZKRRQNNPD5
 * [Dicoding Beginner Backend Developer](https://www.dicoding.com/certificates/MRZMENY7KPYQ), Id : MRZMENY7KPYQ
 * [Dicoding Basic AI](https://www.dicoding.com/certificates/ERZR2K1GQPYV), Id : ERZR2K1GQPYV
-* [Dicoding Basic Data Science](https://www.dicoding.com/certificates/ERZR2K1GQPYV), Id : ERZR2K1GQPYV
+* [Dicoding Basic Data Science](https://www.dicoding.com/certificates/0LZ052L5NX65), Id : 0LZ052L5NX65
